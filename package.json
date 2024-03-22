@@ -1,6 +1,6 @@
 {
-  "name": "ibc-app-solidity-template",
-  "version": "1.0.0",
+  "name": "polymer-template-asrun42",
+  "version": "1.0.1",
   "description": "Template project to start building IBC enabled Solidity contracts, with Hardhat and Foundry support",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-ibc/ibc-app-solidity-template.git"
+    "url": "https://github.com/Asrun42/polymer-template-asrun42.git"
   },
   "keywords": [
     "IBC",
@@ -30,5 +30,8 @@
     "axios": "^1.6.7",
     "dotenv": "^16.4.1",
     "hardhat-verify": "^1.0.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
